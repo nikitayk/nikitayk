@@ -23,7 +23,7 @@ Currently seeking **SWE roles** or internships in software development roles, ap
 ### 🔧 Tech Stack
 
 **Languages:**  
-`C++` (for DSA) · `Python` · `TypeScript` · `JavaScript`
+`Python` (for DSA) · `C++` · `TypeScript` · `JavaScript`
 
 **Frontend:**  
 `React.js` · `Next.js` · `Tailwind CSS` · `Framer Motion` · `Vite` · `Streamlit`
