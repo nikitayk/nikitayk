@@ -14,7 +14,7 @@
 
 ### 👋 About Me
 
-I’m a pre final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning** at **NSUT**, with a strong foundation in full-stack development, real-time systems, and applied AI. I bring a product-oriented mindset, rapid prototyping ability, and a deep understanding of how to build performant, scalable, and maintainable software systems, proficient in Data Structures and Algorithm.
+I’m a final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning** at **NSUT**, with a strong foundation in full-stack development, real-time systems, and applied AI. I bring a product-oriented mindset, rapid prototyping ability, and a deep understanding of how to build performant, scalable, and maintainable software systems, proficient in Data Structures and Algorithm.
 
 Currently seeking **SWE roles** or internships in software development roles, applied AI, or full-stack development where I can contribute to high-impact solutions.
 
