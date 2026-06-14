@@ -38,7 +38,7 @@ Final-year B.Tech student at NSUT specialising in AI/ML. I build across the full
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/alirizzzv/ADPULSE">📈 ADPULSE</a> <sub><sup>collaborator</sup></sub></h3>
+      <h3><a href="https://github.com/nikitayk/ADPULSE">📈 ADPULSE</a> <sub><sup>collaborator</sup></sub></h3>
       <p>Full-stack <strong>Demand-Side Platform</strong> — two LightGBM models price live ad bids in ~5ms, streamed to an operator dashboard with a real-time 3D RTB globe. Built end-to-end and deployed to production.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -49,7 +49,7 @@ Final-year B.Tech student at NSUT specialising in AI/ML. I build across the full
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/alirizzzv/SENTINEL">🛡 SENTINEL</a> <sub><sup>collaborator</sup></sub></h3>
+      <h3><a href="https://github.com/nikitayk/SENTINEL">🛡 SENTINEL</a> <sub><sup>collaborator</sup></sub></h3>
       <p>Chrome extension intercepting prompts <strong>before</strong> they reach ChatGPT / Claude / Gemini — detects credentials, PII & prompt injections via Aho-Corasick in-page. Zero network calls. 91 tests passing.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -57,7 +57,7 @@ Final-year B.Tech student at NSUT specialising in AI/ML. I build across the full
         <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       </p>
-      <a href="https://alirizzzv.github.io/SENTINEL/"><strong>→ Live Demo</strong></a>
+      <a href="https://nikitayk.github.io/SENTINEL/"><strong>→ Live Demo</strong></a>
     </td>
   </tr>
   <tr>
