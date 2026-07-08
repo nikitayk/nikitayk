@@ -38,6 +38,18 @@ Final-year B.Tech student at NSUT specialising in AI/ML. I build across the full
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/alirizzzv/AgenticRetrieval">🤖 Agentic Knowledge Retrieval System</a></h3>
+      <p>Multi-agent <strong>RAG</strong> on <strong>LangGraph</strong> — an intent router dispatches to a <strong>citation-grounded</strong> retrieval agent or a <strong>sandboxed code-execution</strong> agent with self-correcting retries. <strong>100% retrieval hit-rate · 95% faithfulness</strong> on a 30-question eval.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <a href="https://alirizzv-agentic-rag.hf.space"><strong>→ Live Demo</strong></a>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/nikitayk/ADPULSE">📈 ADPULSE</a> <sub><sup>collaborator</sup></sub></h3>
       <p>Full-stack <strong>Demand-Side Platform</strong> — two LightGBM models price live ad bids in ~5ms, streamed to an operator dashboard with a real-time 3D RTB globe. Built end-to-end and deployed to production.</p>
       <p>
